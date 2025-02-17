@@ -177,7 +177,7 @@ p.note { display: none; }
 <h2><span class="yellow">猫ちゃん達は庭でまったり〜</span></h2>
 <a href="20250216_023.JPG" target="_blank"><img src="20250216_023.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">夕方に風が出てきたので、近所を歩いて散策</span></h2>
+<h2><span class="yellow">夕方に風が出てきて涼しくなったので、近所を歩いて散策</span></h2>
 <a href="20250216_024.JPG" target="_blank"><img src="20250216_024.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250216_025.JPG" target="_blank"><img src="20250216_025.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250216_026.JPG" target="_blank"><img src="20250216_026.JPG" alt="サンプル画像" width="900" /></a>
