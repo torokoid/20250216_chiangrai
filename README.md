@@ -206,7 +206,7 @@ p.note { display: none; }
 <a href="20250216_041.JPG" target="_blank"><img src="20250216_041.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250216_042.JPG" target="_blank"><img src="20250216_042.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">朝市は夕方なので完全にクローズ</span></h2>
+<h2><span class="yellow">夕方なので朝市は完全にクローズ</span></h2>
 <a href="20250216_043.JPG" target="_blank"><img src="20250216_043.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">国道の流れが速くて高速道路の中を歩いているような感じ</span></h2>
