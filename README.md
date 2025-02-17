@@ -219,7 +219,7 @@ p.note { display: none; }
 <h2><span class="yellow">かなり特徴的なので、入り口で自撮り</span></h2>
 <a href="20250216_047.JPG" target="_blank"><img src="20250216_047.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">熱帯の皆様は歩かない様で、すれ違ったのはこの2人だけ</span></h2>
+<h2><span class="yellow">熱帯の皆様の移動はバイクか車がメインで、徒歩ですれ違ったのはこの2人だけ</span></h2>
 <a href="20250216_048.JPG" target="_blank"><img src="20250216_048.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">GPS情報で大まかなコースを記録<br>画像クリックでGoogleMapsに飛びます</span></h2>
